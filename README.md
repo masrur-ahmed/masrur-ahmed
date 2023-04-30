@@ -12,9 +12,6 @@ I go by Masrur. I am working at bKash as a Software Engineer. At my workplace, I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masrur-ahmed&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masrur-ahmed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=masrur-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
