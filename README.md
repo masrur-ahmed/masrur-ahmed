@@ -1,5 +1,5 @@
 # 💫 About Me:
-I go by Masrur. I am working at bKash as a Software Engineer. At my workplace, I work on deep learning technologies besides backend development.  I am looking to collaborate on deep learning technologies. 
+I go by Masrur. I am working at bKash as an Advanced Research Engineer. At my workplace, I work on deep learning technologies besides backend development.  I am looking to collaborate on deep learning technologies. 
 
 
 ## 🌐 Socials:
